@@ -1,11 +1,8 @@
 # App Agendamento de Barbearia (Backend) - Decola Tech 2025
 
-Este é um projeto de um APP Full Stack realizado para o Bootcamp Decola Tech 2025 da Avanade, desenvolvido em Angular e Java.
+Este é um projeto de Frontend realizado para o Bootcamp Decola Tech 2025 da Avanade, desenvolvido com Spring Boot.
+
+O projeto em si é a parte Backend para um app de agendamento de uma barbearia.
 
 ## Instalação
-Como pré-requisito, você precisa ter:
-Node versão 20.12.1, npm 10.5.0 e Angular CLI versão 14.1.2.
-
-### `ng serve`
-O aplicativo estará disponível no endereço: `http://localhost:4200/`.
-
+Como pré-requisito, você precisa ter o Java versão 21, Spring Boot versão 3.4.2 e map Struct versão 1.6.3.
