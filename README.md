@@ -1,6 +1,6 @@
 # App Agendamento de Barbearia (Backend) - Decola Tech 2025
 
-Este é um projeto de Frontend realizado para o Bootcamp Decola Tech 2025 da Avanade, desenvolvido com Spring Boot.
+Este é um projeto de backend realizado para o Bootcamp Decola Tech 2025 da Avanade, desenvolvido com Spring Boot.
 
 O projeto em si é a parte Backend para um app de agendamento de uma barbearia.
 
